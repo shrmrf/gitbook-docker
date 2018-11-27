@@ -21,4 +21,6 @@ To run gitbook with the current directory mounted to `/docs`:
     $ docker run -ti --rm -v `pwd`:/docs shrmrf/gitbook-docker pdf <path to your book>
 
 ### Acknowledgements
-This is just a blatant fork off of humangeo/gitbook-docker. Thanks humangeo :)
+This is just a blatant fork off of `humangeo/gitbook-docker`. Thanks humangeo :)
+
+Now though, the fork has diverged.
